@@ -1,0 +1,9 @@
+python-dotenv
+numpy
+pandas
+matplotlib
+requests
+beautifulsoup4
+lxml
+yfinance
+pyarrow
